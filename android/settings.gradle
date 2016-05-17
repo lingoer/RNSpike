@@ -1,0 +1,3 @@
+rootProject.name = 'RNSpike'
+
+include ':app'
